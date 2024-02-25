@@ -1,3 +1,4 @@
+--Creación de Tablas Fase 1
 CREATE TABLE CLIENTS (
     ID_Client INT PRIMARY KEY,
     Client_Name VARCHAR(255) NOT NULL,
