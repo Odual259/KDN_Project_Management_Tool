@@ -1,3 +1,4 @@
+--Prueba Git
 --Creación de Tablas Fase 1
 CREATE TABLE CLIENTS (
     ID_CLIENT INT PRIMARY KEY,
